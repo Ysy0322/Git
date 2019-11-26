@@ -18,3 +18,5 @@
 	4. 解决文件中的冲突部分
 	• 如果有文件冲突，冲突地方会自动指明具体冲突代码，自行修改即可
 	5. 再把要提交的文件add  commit ，最后push完成
+## 问题三、fatal: refusing to merge unrelated histories
+ ### git pull origin master --allow-unrelated-histories
